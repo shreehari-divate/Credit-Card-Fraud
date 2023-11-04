@@ -5,7 +5,7 @@ This is a credit card fraud detection project with dataset having more than 1 la
 
 ## Installation
 I have made this project on google colab.
-<br>If you want to download and run it on any ide, download .py file from downloads folder and install required libraries before running.
+<br>If you want to download and run it on any ide, download .py file and install required libraries before running.
 
 ## Dataset Source
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
